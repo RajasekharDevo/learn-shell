@@ -6,11 +6,12 @@
 
 1. How to write shell script file
 2. Printing
-3. Inputs
-4. Codition
-4. Loop
-5. Function 
-6. Exit status
-7. Quotes
-8. Sed Editor
-9. 
+3. Variables
+4. Inputs 
+5. Codition
+6. Loop
+7. Function 
+8. Exit status
+9. Quotes
+10. Sed Editor
+11. 
