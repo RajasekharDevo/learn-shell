@@ -13,6 +13,7 @@ else
 echo Fruit does not exist
 fi
 ## Always double quote variables in expressions
+
 if [ "$quantity" -gt 100 ]; then
 echo Mango Price 0.5$
 else
