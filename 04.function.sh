@@ -8,3 +8,15 @@ function_name(){
 
 # call function
 function_name
+
+## we can send inputs to the function and we can access them with special variables $1-$n,$*,$#
+
+function_name1(){
+  echo frist Arguments =$1
+  echo second Arguments =$2
+  echo All Arguments =$*
+  echo No of  Arguments =$#
+}
+
+function_name1 123 xyz
+
