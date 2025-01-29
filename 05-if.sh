@@ -15,7 +15,7 @@ fi
 ## Always double quote variables in expressions
 
 if [ "$quantity" -gt 100 ]; then
-echo Mango Price 0.5$
+  echo Mango Price 0.5$
 else
-echo Mango Price 1$
+  echo Mango Price 1$
 fi
