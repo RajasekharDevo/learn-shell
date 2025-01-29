@@ -1,5 +1,5 @@
 a=10
-name =DevOps
+name=DevOps
 
 # print variable
 echo a = $a
@@ -7,12 +7,12 @@ echo name = ${name}
 
 #
 # DATE = 2025-01-29
-DATE= $(date +%F)
+DATE=$(date +%F)
 echo Today date is ${DATE}
 
-ARTH =$((2-3*4/2))
+ARTH=$((2-3*4/2))
 
-echo ARTH =${ARTH}
+echo ARTH = ${ARTH}
 
 # special variable for Input
 echo Script Name -$0
