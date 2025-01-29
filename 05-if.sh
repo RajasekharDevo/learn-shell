@@ -9,7 +9,6 @@ fi
 if [ "$fruit_name" == "mango" ]
 then
   echo Mango Quantity $quantity
-I
 else
   echo Fruit does not exist
 fi
