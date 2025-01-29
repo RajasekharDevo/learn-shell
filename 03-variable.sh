@@ -6,7 +6,7 @@ echo a = $a
 echo name = ${name}
 
 #
-# DATE = 2025-01-29
+# DATE = 2025-01-30
 DATE=$(date +%F)
 echo Today date is ${DATE}
 
