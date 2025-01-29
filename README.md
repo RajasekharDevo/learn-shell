@@ -39,3 +39,7 @@ Instead of| we can use / ,?, :, ;, #, @
 
 
 '''
+
+PROBLEM:
+1. if input is not given the script should fail
+2. 
