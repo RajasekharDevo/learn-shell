@@ -12,7 +12,7 @@
  #echo Word
  #Word will be printed on screen by echo command
  #echo We can print colors.
- ## 02-echo.sh is already having those
+ ## 02-02-echo.sh is already having those
 
  # We can print multiple lines in echo command
  echo -e "Line1\nLine2\n\nLine3"
